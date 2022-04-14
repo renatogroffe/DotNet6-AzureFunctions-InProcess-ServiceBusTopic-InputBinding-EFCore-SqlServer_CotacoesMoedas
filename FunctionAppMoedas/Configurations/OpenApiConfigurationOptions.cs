@@ -11,7 +11,7 @@ internal class OpenApiConfigurationOptions : DefaultOpenApiConfigurationOptions
     {
         Version = "1.0.0",
         Title = $"Cotacoes de Moedas",
-        Description = "API de Consulta a Cotacoes de Moedas implementada com .NET 6 + Azure Functions + Isolated Process + EF Core + SQL Server",
+        Description = "API de Consulta a Cotacoes de Moedas implementada com .NET 6 + Azure Functions + In-Process + EF Core + SQL Server",
         Contact = new OpenApiContact()
         {
             Name = "Renato Groffe",
